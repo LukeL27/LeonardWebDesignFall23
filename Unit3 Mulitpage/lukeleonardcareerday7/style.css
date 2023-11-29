@@ -1,0 +1,64 @@
+h3{
+    text-transform: uppercase;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(superbowl.jpg);
+}
+a {
+    font-size: 16px;
+    font-style: italic;
+}
+header{
+    border-style: solid;
+    background-color: lightblue;
+}
+main{
+    background-color: lightblue;
+    width: 70%;
+    height: 80%
+    
+}
+footer{
+    background-color: lightblue;
+}
+.job-title{
+    font-weight: bold;
+    color: maroon;
+}
+.large-list{
+    font-size: 25px;
+    font-weight: bold;
+}
+ul{
+    font-size: 18px;
+    font-weight: normal;
+}
+body{
+    color: white;
+   
+}
+img{
+    height: 200px; width: 200px;
+}
+#whistle:hover{
+width: 400px;
+height: 400px;
+}
+#coach:hover{
+    width:400px;
+    height:400px;
+}
+#footballcoach:hover{
+    width: 400px;
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+body{
+    background-color: darksalmon;
+}
+h1{
+    color: red;
+}
+p{
+    color: white;
+}
+img{
+    width: 200px; height: 200px;
+}
+#graph1{
+    height: 200px; width: 200px;
+}
+#graph1:hover{
+    height: 500px; width:500px
+}
+#graph1{
+    transition: 5s;
+}
+#endangermentbr{
+    background-color: aqua;
+}
+#textend{
+    color: green;
+}
+#paranm{
+    color: darkolivegreen;
+}
+#sadimg:hover{
+    height: 500px; width: 500px;
+}
+#sadimg{
+    transition: 5s;
+}
+#statscol{
+    color: greenyellow;
+}
+#penguin:hover{
+    height: 500px; width: 500px;
+}
+#penguin{
+    transition:5s
+}
+#melt:hover{
+    height:500px; width: 500px;
+}
+#melt{
+    transition: 4s;
+}
