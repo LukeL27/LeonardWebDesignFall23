@@ -28,3 +28,33 @@ body{
 #twitter{
     width: 100px; height: 100px;
 }
+#home{
+    color: cadetblue;
+}
+#page{
+    color: darkcyan;
+}
+#fla{
+    color: orangered;
+}
+#me{
+    color: orange;
+}
+#albumc{
+    color: pink;
+}
+#kanyedogontaylor:hover{
+width: 500px;
+height: 400px;
+transition: 5s;
+}
+#kanyehappy:hover{
+    width: 500px;
+    height: 400px;
+    transition: 5s;
+    }
+    #firekanye:hover{
+        width: 500px;
+        height: 400px;
+        transition: 5s;
+        }
