@@ -53,8 +53,12 @@ transition: 5s;
     height: 400px;
     transition: 5s;
     }
-    #firekanye:hover{
-        width: 500px;
-        height: 400px;
-        transition: 5s;
-        }
+#firekanye:hover{
+    width: 500px;
+    height: 400px;
+    transition: 5s;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
